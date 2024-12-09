@@ -29,4 +29,4 @@ HD LIVE LLC: August 2021 - December 2021
 
 **Project Sought**: Tristan is seeking a project that will allow him to build upon his knowledge of both his love for visual graphics and simulations along with his keen programming skills and data expertise. Video games, data visualization, 3D printing, to name examples.
 
-**Contact Info:** (614) 949-8430 - mcginntw@mail.uc.edu
+**Contact Info:**  mcginntw@mail.uc.edu
