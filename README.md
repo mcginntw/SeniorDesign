@@ -24,7 +24,7 @@ Developed a TF2 server automation tool that simplifies server setup, plugin inte
 
 ## 2. User Manual
 
-[User Manual](Final Deliverables/USER_MANUAL.md) allows for server setup with the appropriate plugins for RL. It includes:
+[User Manual](./Final%20Deliverables/USER_MANUAL.md) allows for server setup with the appropriate plugins for RL. It includes:
 
 - Running the batch file to start the server
 - Connecting to the server
@@ -36,13 +36,13 @@ Developed a TF2 server automation tool that simplifies server setup, plugin inte
 
 ## 3. Spring Final Presentation
 
-[Spring Final Presentation](Final Deliverables/SWISSBOT_Final_Pres.pptx) for an overview of the project's objectives, implementation, and outcomes.
+[Spring Final Presentation](./Final%20Deliverables/SWISSBOT_Final_Pres.pptx) for an overview of the project's objectives, implementation, and outcomes.
 
 ---
 
 ## 4. Final Expo Poster
 
-[Final Expo Poster](Final Deliverables/SWISSBOT Poster.pdf) summarizing the project's key features and technical specifications.
+[Final Expo Poster](./Final%20Deliverables/SWISSBOT%20Poster.pdf) summarizing the project's key features and technical specifications.
 
 ---
 
@@ -50,8 +50,8 @@ Developed a TF2 server automation tool that simplifies server setup, plugin inte
 
 ### 5.1 Initial Self-Assessment (Fall)
 
-The [Initial Self-Assessment](Fall Deliverables/capstone_assessment.pdf) reflects on the project's early stages, outlining initial goals and expectations.
+The [Initial Self-Assessment](./Fall%20Deliverables/capstone_assessment.pdf) reflects on the project's early stages, outlining initial goals and expectations.
 
 ### 5.2 Final Self-Assessment (Spring)
 
-The [Final Self-Assessment](Final Deliverables/Self-Assessment.pdf) evaluates the project's outcomes, personal contributions, and lessons learned.
+The [Final Self-Assessment](./Final%20Deliverables/Self-Assessment.pdf) evaluates the project's outcomes, personal contributions, and lessons learned.
