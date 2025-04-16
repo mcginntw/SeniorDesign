@@ -24,7 +24,7 @@ Developed a TF2 server automation tool that simplifies server setup, plugin inte
 
 ## 2. User Manual
 
-The [User Manual](User%20Manual/README.md) provides step-by-step instructions on setting up and running the TF2 server with custom plugins. It includes:
+[User Manual](Final Deliverables/USER_MANUAL.md) allows for server setup with the appropriate plugins for RL. It includes:
 
 - Running the batch file to start the server
 - Connecting to the server
@@ -36,13 +36,13 @@ The [User Manual](User%20Manual/README.md) provides step-by-step instructions on
 
 ## 3. Spring Final Presentation
 
-Access the [Spring Final Presentation](Presentations/Spring_Final_Presentation.pdf) for an overview of the project's objectives, implementation, and outcomes.
+[Spring Final Presentation](Final Deliverables/SWISSBOT_Final_Pres.pptx) for an overview of the project's objectives, implementation, and outcomes.
 
 ---
 
 ## 4. Final Expo Poster
 
-View the [Final Expo Poster](Posters/Final_Expo_Poster.pdf) summarizing the project's key features, benefits, and technical specifications.
+[Final Expo Poster](Final Deliverables/SWISSBOT Poster.pdf) summarizing the project's key features and technical specifications.
 
 ---
 
@@ -50,8 +50,8 @@ View the [Final Expo Poster](Posters/Final_Expo_Poster.pdf) summarizing the proj
 
 ### 5.1 Initial Self-Assessment (Fall)
 
-The [Initial Self-Assessment](Assessments/Initial_Self_Assessment.pdf) reflects on the project's early stages, outlining initial goals and expectations.
+The [Initial Self-Assessment](Fall Deliverables/capstone_assessment.pdf) reflects on the project's early stages, outlining initial goals and expectations.
 
 ### 5.2 Final Self-Assessment (Spring)
 
-The [Final Self-Assessment](Assessments/Final_Self_Assessment.pdf) evaluates the project's outcomes, personal contributions, and lessons learned.
+The [Final Self-Assessment](Final Deliverables/Self-Assessment.pdf) evaluates the project's outcomes, personal contributions, and lessons learned.
