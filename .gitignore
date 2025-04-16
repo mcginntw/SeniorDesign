@@ -1,0 +1,12 @@
+# Ignore large game files
+*.vpk
+*.bsp
+*.mp3
+*.wav
+*.mdl
+
+# Optional: Ignore local server config/logs
+sw_server/tf/logs/
+sw_server/steamcmd/
+*.acf
+*.ini
