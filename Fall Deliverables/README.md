@@ -25,7 +25,7 @@ Dr. Fred Annexstein
 
 ## Abstract
 
-SWISSBOT is an AI-driven system designed to create autonomous bots for Team Fortress 2. By leveraging reinforcement learning and integrating Python and C++, these bots adapt to complex game dynamics, learning movement, combat, and strategy through iterative testing. The project aims to create automated opponents that mirror the adaptability of human players.
+SWISSBOT is an AI-concept system designed to create autonomous bots for Team Fortress 2. By leveraging reinforcement learning and integrating Python and C++, these bots adapt to complex game dynamics, learning movement, combat, and strategy through iterative testing. The project aims to create automated opponents that mirror the adaptability of human players.
 
 ## Project Description
 
